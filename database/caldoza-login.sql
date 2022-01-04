@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 04, 2022 at 12:39 PM
+-- Generation Time: Jan 04, 2022 at 02:30 PM
 -- Server version: 10.4.22-MariaDB
 -- PHP Version: 8.0.13
 
@@ -39,8 +39,7 @@ CREATE TABLE `tbl_user` (
 --
 
 INSERT INTO `tbl_user` (`id`, `username`, `password`, `name`) VALUES
-(8, 'edsun', '$2y$10$1KA59WtuTiMZL.fvS3IsyupCLyoiYtgEZ2aFp16Yk9WugvOZ5XBxW', 'Edsun'),
-(9, 'arjehn', '$2y$10$QnRCgNF/ynrXUHIC6Ck3ZOu02GCgcbsMUZKJSU5lPhLiMSVcD.hO2', 'Arjehn Collantes');
+(8, 'edsun', '$2y$10$1KA59WtuTiMZL.fvS3IsyupCLyoiYtgEZ2aFp16Yk9WugvOZ5XBxW', 'Edsun');
 
 --
 -- Indexes for dumped tables

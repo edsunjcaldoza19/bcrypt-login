@@ -1,7 +1,7 @@
 <?php
     session_start();
-    if(!ISSET($_SESSION['username'])){
-		header('location:index.php');
+      if(!ISSET($_SESSION['username'])){
+      header('location:index.php');
 	}
 ?>
 <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
