@@ -2,7 +2,14 @@
 
 Login Form using PHP and MySQL database with BCRYPT Password Encryption
 
-# Bcrypt is a password-hashing function designed by Niels Provos and David Mazières, based on the Blowfish cipher and presented at USENIX in 1999.
+# PHP: Hypertext Processor
+PHP is a popular general-purpose scripting language that is especially suited to web development.
+
+# MySQL
+MySQL Database Service is a fully managed database service to deploy cloud-native applications.
+
+# Bcrypt
+is a password-hashing function designed by Niels Provos and David Mazières, based on the Blowfish cipher and presented at USENIX in 1999.
 
 How to Setup on local machine
 1. Download the files as zip from this github repository
